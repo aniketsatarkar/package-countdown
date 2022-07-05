@@ -7,7 +7,7 @@ A JS class to countdown seconds and trigger events on tick and completed
 
 ### Install
 ```
-npm i @aniket/countdown
+npm i aniket-countdown
 ```
 
 ### Example
